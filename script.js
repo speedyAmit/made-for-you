@@ -37,6 +37,6 @@ function openLetter() {
         letter.style.display = "block";
 
         letter.textContent =
-            "Dear Pushon, 🌷 This little website was made especially for you. It may be small, but every little part of it was made with care. Keep smiling and always stay the amazing person you are. 💗";
+            "Dear Koli, 🌷 This little website was made especially for you. It may be small, but every little part of it was made with care. Keep smiling and always stay the amazing person you are. 💗";
     }
 }
